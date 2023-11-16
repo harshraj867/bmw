@@ -1,2 +1,2 @@
-#iclude<math.h> 
-#include
+#include<math.h> 
+
